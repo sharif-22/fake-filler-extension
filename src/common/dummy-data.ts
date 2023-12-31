@@ -315,10 +315,63 @@ const wordBank = [
   "asperiores",
   "repellat",
 ];
+const tamilNaduWords = [
+  "Vanakkam",
+  "Thirukkural",
+  "Sambar",
+  "Idli",
+  "Dosa",
+  "Auto",
+  "Arasiyal",
+  "Kutty",
+  "Ooru",
+  "Pongal",
+  "Kollywood",
+  "Madras",
+  "Maami",
+  "Thamizh",
+  "Vellai",
+  "Puthandu",
+  "Nadu",
+  "Aiyoh",
+  "Kaiyendhi bhavan",
+  "Kolam",
+  "Carnatic",
+  "Bharatanatyam",
+  "Marina",
+  "Kanchipuram",
+  "Filter coffee",
+  "Jallikattu",
+  "Chennai Super Kings",
+  "Rajnikanth",
+  "MGR",
+  "Vada",
+  "Thiruvananthapuram",
+  "Periyar",
+  "Kovil",
+  "Raj Bhavan",
+  "Bharatnatyam",
+  "Mysuru",
+  "Kumbakonam",
+  "Silk saree",
+  "Pamban Bridge",
+  "Tanjore painting",
+  "Muthuswami Dikshitar",
+  "Avial",
+  "Rasam",
+  "Mahabalipuram",
+  "Auroville",
+  "Valluvar Kottam",
+  "Kuthiraivali",
+  "Nataraja",
+  "Tamizh Puthandu Vazthukal",
+  "Koyambedu"
+];
 
-const firstNames = ["Anbu", "Jeba"];
 
-const lastNames = ["Selvan", "Raj"];
+const firstNames = ["Anbu", "Jeba","Esakki"];
+
+const lastNames = ["Selvan", "Raj","M"];
 
 const organizationSuffix = [
   "Inc",
@@ -387,4 +440,4 @@ const alphabets = [
   "z",
 ];
 
-export { alphabets, consonants, domains, firstNames, lastNames, organizationSuffix, vowels, wordBank };
+export { alphabets, consonants, domains, firstNames, lastNames,tamilNaduWords, organizationSuffix, vowels, wordBank };
